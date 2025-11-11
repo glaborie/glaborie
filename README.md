@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Guillaume!<br><br>💼 I'm currently working on OMNI channel integration with PEGA, building smoother customer journeys across platforms.<br>🤝 I'm looking to collaborate on open source projects that make automation and AI more accessible.<br>🧠 I'm currently learning AI engineering and cloud computing, exploring tools like TensorFlow, LangChain, and AWS SageMaker.<br>🚵‍♂️ Fun fact: I love to relax by flying downhill on my mountain bike — as fast (and safely) as possible!
+👋 Hi there, I'm Guillaume!<br><br>💼 I'm currently working on OMNI channel integration with PEGA, building smoother customer journeys across platforms.<br>🤝 I'm looking to collaborate on open source projects that make automation and AI more accessible.<br>🧠 I'm currently learning AI engineering and cloud computing, exploring tools like TensorFlow, LangChain, and Vertex AI.<br>🚵‍♂️ Fun fact: I love to relax by flying downhill on my mountain bike — as fast (and safely) as possible!
 
 
 ## 🌐 Socials:
