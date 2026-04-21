@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/glaborie/skills-resolve-merge-conflicts/commit/a583acc8f11672a98e07a34d0e9402aa23c4c201\"><strong>a</strong>583acc8f11672a98e07a34d0e9402aa23c4c201</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 68 times)\n2. commit (used 33 times)\n3. initial (used 32 times)\n4. pull (used 28 times)\n5. merge (used 27 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/glaborie/unsloth/commit/602341c006064ed9d5abe090579e93cf1941be41\">602341c</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/glaborie/skills-expand-your-team-with-copilot/issues/2\">#2</a>: Missing Activity: Manga Maniacs",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/glaborie/unsloth_notebooks/pull/1\">#1</a>: Enhance Qwen 3.5 notebooks with updates and bug fixes",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/glaborie/uigen/pull/1\">#1</a>: Add claude GitHub actions 1772621693323\n- <a href=\"https://github.com/glaborie/skills-introduction-to-codeql/pull/2\">#2</a>: Fix SQL query to use wildcard for book name search",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/glaborie/unsloth/commit/b8e79729e9a61da0aeb5e34adb28e19edaf38287\">b8e7972</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
