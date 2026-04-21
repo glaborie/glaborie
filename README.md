@@ -16,7 +16,7 @@
 
 ## About
 
-I'm an System Architect transitioning into senior AI/Cloud/MLOps engineering roles. After 20+ years designing large-scale systems — including a major GCP migration at Sunrise (Swiss telco) — I'm now focused on the layer that makes GenAI deployable: LLMOps, evals, ML platforms, and agentic systems.
+I'm a System Architect transitioning into senior AI/Cloud/MLOps engineering roles. After 20+ years designing large-scale systems — including a major GCP migration at Sunrise (Swiss telco) — I'm now focused on the layer that makes GenAI deployable: LLMOps, evals, ML platforms, and agentic systems.
 
 I build things end-to-end: from LLM eval harnesses and homelab MLOps stacks to experimental autonomous dev pipelines. My background in pre-sales and enterprise architecture means I can bridge business requirements and technical implementation — a rarer combination than it sounds.
 
