@@ -2,7 +2,7 @@
 
 # Guillaume Laborie
 
-**Enterprise Architect → AI/MLOps Engineer**
+**System Architect → AI/MLOps Engineer**
 
 *20+ years of architecture experience, now building the infrastructure that makes AI actually work in production.*
 
@@ -16,7 +16,7 @@
 
 ## About
 
-I'm an Enterprise Architect transitioning into senior AI/Cloud/MLOps engineering roles. After 20+ years designing large-scale systems — including a major GCP migration at Sunrise (Swiss telco) — I'm now focused on the layer that makes GenAI deployable: LLMOps, evals, ML platforms, and agentic systems.
+I'm an System Architect transitioning into senior AI/Cloud/MLOps engineering roles. After 20+ years designing large-scale systems — including a major GCP migration at Sunrise (Swiss telco) — I'm now focused on the layer that makes GenAI deployable: LLMOps, evals, ML platforms, and agentic systems.
 
 I build things end-to-end: from LLM eval harnesses and homelab MLOps stacks to experimental autonomous dev pipelines. My background in pre-sales and enterprise architecture means I can bridge business requirements and technical implementation — a rarer combination than it sounds.
 
@@ -29,7 +29,7 @@ Based in the Zürich area. Fluent in French, English, and German (C1).
 ### 🏭 Dark Software Factory *(in progress)*
 Fully agentic software development pipeline built on Claude Code's native multi-agent primitives. Features specialist agents, a Scrum Master agent with failure taxonomy and self-improvement loop, and short sprint cycles. Exploring robust quality gates and human oversight positioning for production-grade autonomous dev.
 
-**Stack:** Claude Code · `.claude/agents/` · `CLAUDE.md` · `MEMORY.md`
+**Stack:** Claude Code · `.claude/agents/` · `CLAUDE.md` · `MEMORY.md` . `SKILL.md`
 
 ---
 
