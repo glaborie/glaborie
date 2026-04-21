@@ -1,27 +1,99 @@
-# 💫 About Me:
-👋 Hi there, I'm Guillaume!<br><br>💼 I'm currently working on OMNI channel integration with PEGA, building smoother customer journeys across platforms.<br>🤝 I'm looking to collaborate on open source projects that make automation and AI more accessible.<br>🧠 I'm currently learning AI engineering and cloud computing, exploring tools like TensorFlow, LangChain, and Vertex AI.<br>🚵‍♂️ Fun fact: I love to relax by flying downhill on my mountain bike — as fast (and safely) as possible!
+<div align="center">
 
+# Guillaume Laborie
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emtb4ever) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guillaumelaborie1) 
+**Enterprise Architect → AI/MLOps Engineer**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+*20+ years of architecture experience, now building the infrastructure that makes AI actually work in production.*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillaume_Laborie-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guillaumelaborie1)
+[![Location](https://img.shields.io/badge/📍_Zürich_Area-Switzerland-grey?style=flat)](https://www.linkedin.com/in/guillaumelaborie1)
+[![Languages](https://img.shields.io/badge/🗣_FR_·_EN_·_DE_(C1)-trilingual-grey?style=flat)](#)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
 
-<!-- my-badges start -->
-<a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
-<a href="my-badges/covid-19.md"><img src="https://my-badges.github.io/my-badges/covid-19.png" alt="I rolled before Covid-19: Survivor of the Great TP Shortage" title="I rolled before Covid-19: Survivor of the Great TP Shortage" width="64"></a>
-<a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="64"></a>
-<a href="my-badges/github-anniversary-5.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-5.png" alt="I joined GitHub 5 years ago." title="I joined GitHub 5 years ago." width="64"></a>
-<a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
-<a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
-<a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
-<a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
-<a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
-<a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
-<!-- my-badges end -->
+---
+
+## About
+
+I'm an Enterprise Architect transitioning into senior AI/Cloud/MLOps engineering roles. After 20+ years designing large-scale systems — including a major GCP migration at Sunrise (Swiss telco) — I'm now focused on the layer that makes GenAI deployable: LLMOps, evals, ML platforms, and agentic systems.
+
+I build things end-to-end: from LLM eval harnesses and homelab MLOps stacks to experimental autonomous dev pipelines. My background in pre-sales and enterprise architecture means I can bridge business requirements and technical implementation — a rarer combination than it sounds.
+
+Based in the Zürich area. Fluent in French, English, and German (C1).
+
+---
+
+## Featured Projects
+
+### 🏭 Dark Software Factory *(in progress)*
+Fully agentic software development pipeline built on Claude Code's native multi-agent primitives. Features specialist agents, a Scrum Master agent with failure taxonomy and self-improvement loop, and short sprint cycles. Exploring robust quality gates and human oversight positioning for production-grade autonomous dev.
+
+**Stack:** Claude Code · `.claude/agents/` · `CLAUDE.md` · `MEMORY.md`
+
+---
+
+### 🔬 LLMOps Eval Harness
+Production-grade evaluation framework for a video clustering pipeline. Covers embedding quality, retrieval faithfulness, and cluster coherence — with an interactive HTML/Canvas UI for metric exploration.
+
+**Stack:** RAGAS · DeepEval · Phoenix · CLIP · ChromaDB · HDBSCAN · UMAP · ffmpeg
+
+---
+
+### 🧪 Homelab MLOps Stack
+End-to-end local MLOps environment for finetuning and serving small LLMs, designed to bridge smoothly to GCP/Vertex AI.
+
+**Stack:** DVC + GCS · MLflow · Unsloth (QLoRA) · vLLM · Ollama · Vertex AI
+
+---
+
+## Tech Stack
+
+**AI/ML**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-000000?style=flat&logo=nvidia&logoColor=76B900)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+
+**MLOps & Cloud**
+
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white)
+
+**Data & Storage**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## What I'm Working On
+
+- 🤖 Designing **autonomous agentic pipelines** with Claude Code multi-agent primitives
+- 📊 Building production **LLM eval frameworks** (RAGAS, DeepEval, Phoenix)
+- ☁️ Deepening expertise in **GCP/Vertex AI** MLOps patterns
+- 🔍 Targeting senior **ML Platform / AI Infrastructure / GenAI Engineer** roles in Switzerland
+
+---
+
+## Fun Fact
+
+When I'm not thinking about LLM eval metrics or agentic orchestration patterns, I'm flying downhill on an eMTB — as fast and safely as possible. 🚵‍♂️⚡
+
+---
+
+<div align="center">
+<sub>Open to senior AI/Cloud/MLOps roles in the DACH region · Zürich-based · Available for hybrid & remote</sub>
+</div>
