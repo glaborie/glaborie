@@ -90,7 +90,7 @@ End-to-end local MLOps environment for finetuning and serving small LLMs, design
 
 ## Fun Fact
 
-When I'm not thinking about LLM eval metrics or agentic orchestration patterns, I'm flying downhill on an eMTB — as fast and safely as possible. 🚵‍♂️⚡
+When I'm not thinking about LLM eval metrics or agentic orchestration patterns, I'm flying downhill on a MTB as fast and safely as possible. 🚵‍♂️⚡
 
 ---
 
