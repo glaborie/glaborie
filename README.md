@@ -12,7 +12,7 @@ Particularly interested in evaluation-driven development, AI system reliability,
 
 ## Notable Projects
 
-**[AgentGuard](https://github.com/glaborie/agentguard)** — Production-grade QA and reliability layer for agentic AI. A self-hosted LLMOps stack combining guardrails, RAG evaluation, MCP capabilities, observability, and drift monitoring for validating and operating AI systems in production.
+**[AgentGuard](https://github.com/glaborie/agentguard)** — Production-grade QA and reliability layer for agentic AI. A self-hosted LLMOps stack for guardrails, RAG evaluation, red teaming, PII redaction, MCP integration, observability, and drift monitoring in production AI systems.
 
 **[JobWatch-CH](https://github.com/glaborie/jobwatch-ch)** — End-to-end AI product built with TypeScript, React, Firebase, and GCP. Ingests Swiss job listings in real time and uses Gemini to generate on-demand summaries.
 
