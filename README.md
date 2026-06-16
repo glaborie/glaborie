@@ -8,6 +8,8 @@ I build the infrastructure that makes generative AI usable in production: evalua
 
 I specialize in turning promising AI prototypes into systems that can be measured, debugged, and trusted.
 
+Particularly interested in evaluation-driven development, AI system reliability, and the operational architecture around agentic applications.
+
 ## Notable Projects
 
 **[AgentGuard](https://github.com/glaborie/agentguard)** — Production-grade QA and reliability layer for agentic AI. A self-hosted LLMOps stack combining guardrails, RAG evaluation, MCP server capabilities, observability, and drift monitoring to validate and operate AI systems in production.
