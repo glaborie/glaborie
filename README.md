@@ -1,29 +1,22 @@
 # Guillaume Laborie
 
-Senior AI Engineer based in the Zürich area, with 20+ years of enterprise engineering
-background and a focus on building production AI systems.
+Senior AI Engineer based in the Zürich area, with 20+ years in enterprise software engineering and a current focus on production-grade GenAI systems, LLMOps, and AI reliability.
 
 ## Current Focus
 
-Making generative AI production-ready. Key areas: LLMOps, agentic workflows, RAG pipelines,
-evaluation frameworks, and ML platforms. I bridge hands-on AI engineering with enterprise
-delivery experience — shipping things that actually work in production, not just in notebooks.
+I build the infrastructure that makes generative AI usable in production: evaluation frameworks, guardrails, RAG quality assessment, observability, agentic workflows, and platform components for operating LLM-based systems at scale.
+
+I specialize in turning promising AI prototypes into systems that can be measured, debugged, and trusted.
 
 ## Notable Projects
 
-**[JobWatch-CH](https://github.com/glaborie/jobwatch-ch)** — Full-stack AI job tracking
-platform (TypeScript, React, Firebase, GCP). Scrapes six Swiss job boards in real time;
-uses Google Gemini to generate on-demand job description summaries.
+**[AgentGuard](https://github.com/glaborie/agentguard)** — Production-grade QA and reliability layer for agentic AI. A self-hosted LLMOps stack combining guardrails, RAG evaluation, MCP server capabilities, observability, and drift monitoring to validate and operate AI systems in production.
 
-**Dark Software Factory** — Experimental agentic software development pipeline using
-Claude Code's multi-agent capabilities, featuring specialist agents and a Scrum Master
-agent with self-improvement loops.
+**[JobWatch-CH](https://github.com/glaborie/jobwatch-ch)** — Full-stack AI job tracking platform (TypeScript, React, Firebase, GCP). Scrapes six Swiss job boards in real time and uses Google Gemini to generate on-demand job description summaries.
 
-**LLMOps Eval Harness** — Production evaluation framework for LLM outputs covering
-embedding quality, retrieval accuracy, and cluster analysis with interactive visualization.
+**Dark Software Factory** — Experimental agentic software delivery pipeline using Claude Code multi-agent workflows, specialist agents, and Scrum Master orchestration with self-improvement loops.
 
-**Homelab MLOps Stack** — Local environment for LLM fine-tuning and serving, integrated
-with GCP/Vertex AI.
+**Homelab MLOps Stack** — Local AI engineering environment for model serving, fine-tuning, and experimentation, integrated with GCP and Vertex AI.
 
 ## Stack
 
@@ -38,8 +31,7 @@ with GCP/Vertex AI.
 
 ## Looking For
 
-Senior AI Engineer / GenAI Engineer roles in the DACH region — hybrid or remote.
-Trilingual: French (native), English (fluent), German (C1).
+Senior AI Engineer / GenAI Engineer / AI Platform Engineer roles in the DACH region — hybrid or remote. Trilingual: French (native), English (fluent), German (C1).
 
 ---
 
