@@ -24,8 +24,9 @@ See **[AgentGuard](https://github.com/glaborie/agentguard)** for a concrete exam
 
 ## Stack
 
-**Core:** Python, FastAPI, TypeScript, Docker, GCP, Vertex AI  
-**LLMOps / Agentic AI:** LangChain, LangGraph, Qdrant, Langfuse, DeepEval, OpenTelemetry, MCP
+**Languages & Backend:** Python, FastAPI, TypeScript  
+**Cloud & Platform:** Docker, GCP, Vertex AI  
+**LLMOps & Agentic AI:** LangChain, LangGraph, Qdrant, Langfuse, DeepEval, OpenTelemetry, MCP
 
 ## Looking For
 
