@@ -6,11 +6,11 @@ Senior AI Engineer building reliable production GenAI systems, evaluation platfo
 
 ## Current Focus
 
-I design and build the evaluation, guardrail, and observability layers required to run GenAI systems safely in production.
+I build the evaluation, guardrail, and observability capabilities required to operate GenAI systems reliably in production.
 
-My work centers on RAG quality, agentic workflows, LLM evaluation, tracing, and platform components that make AI systems measurable, debuggable, and trustworthy.
+My work spans RAG quality, agentic workflows, LLM evaluation, tracing, and the platform architecture needed to make AI systems measurable, debuggable, and safe.
 
-Particularly interested in evaluation-driven development, AI system reliability, and the operational architecture around agentic applications.
+See **[AgentGuard](https://github.com/glaborie/agentguard)** for a concrete example of this work.
 
 ## Notable Projects
 
