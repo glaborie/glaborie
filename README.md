@@ -29,7 +29,8 @@ Particularly interested in evaluation-driven development, AI system reliability,
 
 ## Looking For
 
-Staff / Principal AI Engineer, GenAI Platform, or AI Reliability roles in the DACH region — hybrid or remote.  
+Staff / Principal AI Engineer roles focused on GenAI platforms, AI reliability, and production LLM systems in the DACH region.  
+Open to hybrid or remote opportunities.  
 French (native), English (fluent), German (C1).
 
 ---
