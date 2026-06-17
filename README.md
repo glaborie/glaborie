@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/guillaumelaborie1/)
 
-Senior AI Engineer with 20+ years in enterprise software, focused on production GenAI, LLMOps, and AI reliability.
+Senior AI Engineer building reliable production GenAI systems, evaluation platforms, and agentic infrastructure.
 
 ## Current Focus
 
