@@ -14,9 +14,9 @@ See **[AgentGuard](https://github.com/glaborie/agentguard)** for a concrete exam
 
 ## Notable Projects
 
-**[AgentGuard](https://github.com/glaborie/agentguard)** — Production-grade QA and reliability layer for agentic AI. A self-hosted LLMOps stack for guardrails, RAG evaluation, red teaming, PII r[...]
+**[AgentGuard](https://github.com/glaborie/agentguard)** — Production-grade QA and reliability layer for agentic AI, covering guardrails, RAG evaluation, red teaming, PII detection, and tracing for safer LLM applications.
 
-**[JobWatch-CH](https://github.com/glaborie/jobwatch-ch)** — End-to-end AI product built with TypeScript, React, Firebase, and GCP. Ingests Swiss job listings in real time and uses Gemini to gen[...]
+**[JobWatch-CH](https://github.com/glaborie/jobwatch-ch)** — End-to-end AI product built with TypeScript, React, Firebase, and GCP that ingests Swiss job listings in real time and uses Gemini to generate structured insights and matching signals.
 
 **Dark Software Factory** — Experimental multi-agent software delivery pipeline exploring specialist agents, orchestration patterns, and feedback loops for autonomous engineering workflows.
 
