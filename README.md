@@ -10,15 +10,15 @@ I build the evaluation, guardrail, and observability capabilities required to op
 
 My work spans RAG quality, agentic workflows, LLM evaluation, tracing, and the platform architecture needed to make AI systems measurable, debuggable, and safe.
 
-See **[AgentGuard](https://github.com/glaborie/agentguard)** for a concrete example of this work.
+See **[Rigging](https://github.com/glaborie/rigging)** for a concrete example of this work.
 
 ## Notable Projects
+
+**[Rigging](https://github.com/glaborie/rigging)** — A modular Python agent harness where tools, guardrails, retrieval, approvals, and observability are swappable. Built around replayable event logs and safety invariants for reliable agent workflows.
 
 **[AgentGuard](https://github.com/glaborie/agentguard)** — Production-grade QA and reliability layer for agentic AI, covering guardrails, RAG evaluation, red teaming, PII detection, and tracing for safer LLM applications.
 
 **[JobWatch-CH](https://github.com/glaborie/jobwatch-ch)** — End-to-end AI product built with TypeScript, React, Firebase, and GCP that ingests Swiss job listings in real time and uses Gemini to generate structured insights and matching signals.
-
-**Dark Software Factory** — Experimental multi-agent software delivery pipeline exploring specialist agents, orchestration patterns, and feedback loops for autonomous engineering workflows.
 
 **Homelab MLOps Stack** — Local platform for model serving, fine-tuning, and LLM experimentation, integrated with GCP and Vertex AI.
 
