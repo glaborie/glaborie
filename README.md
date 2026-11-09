@@ -30,7 +30,7 @@ See **[Rigging](https://github.com/glaborie/rigging)** for a concrete example of
 
 ## Looking For
 
-Staff / Principal AI Engineer roles focused on GenAI platforms, AI reliability, and production LLM systems in the DACH region.  
+AI Engineer roles focused on GenAI platforms, AI reliability, and production LLM systems in the DACH region.  
 Open to hybrid or remote opportunities.  
 French (native), English (fluent), German (B2).
 
